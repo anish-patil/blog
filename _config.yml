@@ -6,11 +6,11 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  I do brownies>-
-  I do coke>-
-  I do quickies>-
-  All Halal, no Haram>-
-  Choco Brownies, Coke soda, HIIT quickies (This is the Haram version, hmu if interested M/F)>-
+  I do brownies
+  I do coke
+  I do quickies 
+  All Halal, no Haram
+  Choco Brownies, Coke soda, HIIT quickies (This is the Haram version, hmu if interested M/F)
   FULL PARTY HABIBI!~!~!~
 
 # Build settings
